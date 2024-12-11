@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+.env
+.DS_Store
+.vscode/
+.idea/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+build/
+ios/Flutter/.generated/
+*.flutter-plugins
+*.flutter-plugins-dependencies
+.idea/
+.DS_Store
+
+# Android Studio / IntelliJ
+.idea/
+
+# iOS-specific (for macOS users)
+xcuserdata/
+.idea/
+*.xcodeproj/
+*.xcworkspace/
+
+# VS Code specific settings
+.vscode/
+
+# Temporary files
+*.log
+*.swp
+*.swo
+*~
+
+# Miscellaneous
+*.apk
+*.app
+*.ipa
+*.dSYM/
+*.log
